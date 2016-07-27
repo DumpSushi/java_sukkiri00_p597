@@ -12,7 +12,7 @@ public class Main {
 //			String s = null;
 //			System.out.println(s.length());
 //		}
-//		catch(Exception e)
+//		catch(NullPointerException e)
 //		{
 //			System.out.println(e.getMessage());
 //			e.printStackTrace();
